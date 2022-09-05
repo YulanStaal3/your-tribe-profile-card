@@ -24,7 +24,7 @@ article {
   align-items:center;
   justify-content:flex-end;
   background: rgb(255,0,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+  background: linear-gradient(0deg, rgba(255,0,255) 40%, #ffb6c1 100%);
   box-shadow:0 0 20px 20px rgba(0,0,0,.1);
   border-radius:1rem;
   position: relative;
